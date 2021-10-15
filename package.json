@@ -1,5 +1,6 @@
 {
     "name": "@savks/liquor-tree",
+    "version": "1.0.0",
     "description": "A Vue.js tree component.",
     "author": "Kostiantyn <phlyze@gmail.com>",
     "scripts": {
